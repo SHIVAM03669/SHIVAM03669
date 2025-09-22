@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on WEB-DEVELOPMENT project<br>👯 I’m looking to collaborate on Git Hub<br>🤝 I’m looking for help with Web Development Enthusiast<br>🌱 I’m currently learning MERN stack <br>
+💻 A passionate Full-Stack Developer in the making, exploring modern web and mobile technologies.  
+🌱 Currently learning and building projects with **React.js, React Native, Node.js, Express, and MongoDB**.  
+🔗 Interested in **API development, scalable backend systems, and creating seamless user experiences**.  
+☁️ Exploring **cloud platforms (AWS/GCP)** and deployment workflows.  
+📂 Check out my repositories for projects in **frontend, backend, and full-stack development**.  
+
+✨ Always curious, always building. Let's connect and grow together!  
 
 
 ## 🌐 Socials:
